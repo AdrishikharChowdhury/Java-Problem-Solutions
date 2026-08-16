@@ -20,6 +20,7 @@ public class MadLibs{
 
         System.out.println("Here is your Madlib: ");
         System.out.println("Yesterday, a "+adjectives[0]+" "+nouns[0]+" found a "+adjectives[1]+" "+nouns[1]+" in the "+nouns[2]+". It started to jump near the "+nouns[3]+", making everyone feel "+adjectives[2]+". Soon, a "+adjectives[3]+" "+nouns[4]+" arrived with a huge "+nouns[5]+", and the whole "+nouns[6]+" turned "+adjectives[4]+"!");
-        
+
+        sc.close();
     }
 }
